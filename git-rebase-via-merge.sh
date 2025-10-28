@@ -6,7 +6,7 @@
 # Copyright (c) 2022 Baur Atanov
 #
 
-default_base_branch="origin/develop"
+default_base_branch="origin/main"
 base_branch=${1:-$default_base_branch}
 set -e
 
